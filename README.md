@@ -1,6 +1,5 @@
 # ❤️ Tinder Auto-Liker Bot
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Tinder_logo_with_flame.png" alt="tinder-logo" width="150"/>
 
 A Python-based automation script using **Selenium WebDriver** to automate the liking process on Tinder. This tool helps you swipe right effortlessly within Tinder's free daily limit.
 
